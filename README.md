@@ -1,4 +1,4 @@
-[![build](https://github.com/Eb0nheart/Extensions/actions/workflows/workflow.yaml/badge.svg)](https://github.com/Eb0nheart/Extensions/actions/workflows/workflow.yaml)
+[![build](https://github.com/Eb0nheart/TodaysTodos-Backend/actions/workflows/build.yaml/badge.svg)](https://github.com/Eb0nheart/TodaysTodos-Backend/actions/workflows/build.yaml)
 
 # TodaysTodos-Backend
 
